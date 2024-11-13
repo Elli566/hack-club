@@ -7,7 +7,7 @@
 	<style type="text/css">
         body{
         background-image: url(night-4702174_960_720.webp);
-        baground-size: cover;
+        background-size: cover;
         }
         
           body{
